@@ -1,0 +1,6 @@
+*.pyc
+*.ipynb*
+training/.flag*
+prediction*.csv
+*.npy
+*.ckpt
